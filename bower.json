@@ -1,0 +1,17 @@
+{
+  "name": "my fisrt boostrap project",
+  "homepage": "https://github.com/iriiz/ProjectOne",
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
